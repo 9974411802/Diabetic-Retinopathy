@@ -22,7 +22,7 @@ After training for 120 epochs, the model achieved the following evaluation metri
 
 ### Training Curves
 
-![Training Metrics](/Training loss curve)
+![Training Metrics](./Training loss curve)
 
 Plots above show the training progression for:
 - Loss
