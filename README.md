@@ -20,16 +20,6 @@ After training for 120 epochs, the model achieved the following evaluation metri
 - **Intersection over Union (IoU):** `0.5326`
 - **Pixel Accuracy:** `0.9973`
 
-### Training Curves
-
-![Training Metrics](Diabetic-Retinopathy/Training loss curve)
-
-Plots above show the training progression for:
-- Loss
-- Dice Coefficient
-- Intersection over Union (IoU)
-- Pixel Accuracy
-
 ## 📁 Dataset Info
 
 - **Name:** Indian Diabetic Retinopathy Image Dataset (IDRiD)
